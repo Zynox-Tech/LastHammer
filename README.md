@@ -225,6 +225,7 @@ Explore the user interface and learning experience of the AI-Powered IELTS Prepa
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7109ab26-6376-4e83-9b2f-28508d770403" alt="IELTS Application Interface 5" width="47%" />
   &nbsp;
+      
   <img src="https://github.com/user-attachments/assets/3ff5ae81-1c07-4afb-8152-1db9bcb81403" alt="IELTS Application Interface 6" width="47%" />
 </p>
 
