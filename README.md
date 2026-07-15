@@ -206,6 +206,30 @@ Students can access interactive quizzes to:
 
 ---
 
+# Application Screenshots
+
+Explore the user interface and learning experience of the AI-Powered IELTS Preparation App.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/887574fd-2142-4789-a722-a8b102c010a1" alt="IELTS Application Interface 1" width="47%" />
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/67639e42-c675-4650-9040-2b2e2f8cde74" alt="IELTS Application Interface 2" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ee361da2-ca2c-4f22-bf1e-167e93b7665a" alt="IELTS Application Interface 3" width="47%" />
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/146b77a6-c6e3-4001-b4ea-d0d5773e73c2" alt="IELTS Application Interface 4" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7109ab26-6376-4e83-9b2f-28508d770403" alt="IELTS Application Interface 5" width="47%" />
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/3ff5ae81-1c07-4afb-8152-1db9bcb81403" alt="IELTS Application Interface 6" width="47%" />
+</p>
+
+---
+
 # Technology Stack
 
 ## Application Development
@@ -569,6 +593,7 @@ For custom software solutions and technology partnerships:
 
 ### Developed by **Zynox Tech**
 
-Building Modern Technology Solutions for Businesses and Organizations
+**Building Modern Technology Solutions for Businesses and Organizations**
 
 </div>
+
